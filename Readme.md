@@ -3,6 +3,8 @@
 
   Generate a humanized title from a url.
 
+[![Build Status](https://travis-ci.org/visionmedia/node-url-title.png)](https://travis-ci.org/visionmedia/node-url-title)
+
 ## Installation
 
     $ npm install url-title
